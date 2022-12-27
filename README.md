@@ -7,13 +7,13 @@
   - [osTicket: Post-Installation Configuration](https://github.com/carlo-custodio/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/carlo-custodio/ticket-lifecycle)
 - <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/ceoceelo/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/ceoceelo/azure-network-protocols)
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/carlo-custodio/configure-ad)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/carlo-custodio/azure-network-protocols)
 
 <h2>🤝🏼Connect with me:</h2>
 
 
-[<img align="left" alt="Josh | LinkedIn" width="22px" src="https://i.imgur.com/OQUXwNp.jpeg" />][linkedin]
+[<img align="left" alt="Carlo | LinkedIn" width="22px" src="https://i.imgur.com/OQUXwNp.jpeg" />][linkedin]
 
 
 
